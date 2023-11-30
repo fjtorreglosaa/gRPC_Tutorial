@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "FP1GcIqp5Y+JV7rkRUXQHvQ73iL5yEWy4ktbzz9iXaP5WlPkkLeuqMpkcxNwnjBlEFVJtS0mODYq9XOe5hmanQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Francisco\\Desktop\\gRPC_M\\cliente\\cliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francisco\\.nuget\\packages\\google.api.commonprotos\\2.13.0\\google.api.commonprotos.2.13.0.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\google.protobuf\\3.25.0\\google.protobuf.3.25.0.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\grpc.core.api\\2.59.0\\grpc.core.api.2.59.0.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\grpc.net.client\\2.59.0\\grpc.net.client.2.59.0.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\grpc.net.common\\2.59.0\\grpc.net.common.2.59.0.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\grpc.tools\\2.59.0\\grpc.tools.2.59.0.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
