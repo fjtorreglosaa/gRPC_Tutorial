@@ -12,3 +12,5 @@
 2. dotnet add package Grpc.Net.Client
 3. dotnet add package Grpc.Tools
 4. dotnet add package Grpc.Core
+
+https://grpc.io/docs/what-is-grpc/introduction/
